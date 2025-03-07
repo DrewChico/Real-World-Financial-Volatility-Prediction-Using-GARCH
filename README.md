@@ -106,4 +106,4 @@ spec <- ugarchspec(
 
 **License** 
 
-This project is licensed under the **GNU License**
+This project is licensed under the **GPL-2.0 License**
