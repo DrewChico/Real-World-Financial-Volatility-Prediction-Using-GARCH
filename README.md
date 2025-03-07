@@ -106,4 +106,4 @@ spec <- ugarchspec(
 
 **License** 
 
-This project is licensed under the **MIT License**—feel free to use, modify, and contribute. For questions or feedback, open an issue or reach out. 
+This project is licensed under the **GNU License**
